@@ -42,4 +42,20 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/msingh7763/dsadailyproblems/tree/master/0560-subarray-sum-equals-k) |
+## Stack
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/msingh7763/dsadailyproblems/tree/master/0901-online-stock-span) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/msingh7763/dsadailyproblems/tree/master/0901-online-stock-span) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/msingh7763/dsadailyproblems/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/msingh7763/dsadailyproblems/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
