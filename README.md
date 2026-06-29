@@ -10,6 +10,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/msingh7763/dsadailyproblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/msingh7763/dsadailyproblems/tree/master/0134-gas-station) |
 | [0189-rotate-array](https://github.com/msingh7763/dsadailyproblems/tree/master/0189-rotate-array) |
+| [0274-h-index](https://github.com/msingh7763/dsadailyproblems/tree/master/0274-h-index) |
 | [0560-subarray-sum-equals-k](https://github.com/msingh7763/dsadailyproblems/tree/master/0560-subarray-sum-equals-k) |
 | [0875-koko-eating-bananas](https://github.com/msingh7763/dsadailyproblems/tree/master/0875-koko-eating-bananas) |
 ## Math
@@ -61,4 +62,12 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/msingh7763/dsadailyproblems/tree/master/0901-online-stock-span) |
+## Sorting
+|  |
+| ------- |
+| [0274-h-index](https://github.com/msingh7763/dsadailyproblems/tree/master/0274-h-index) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/msingh7763/dsadailyproblems/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
