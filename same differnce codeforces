@@ -1,0 +1,26 @@
+import java.util.*;
+public class Samedifference {
+  public static void main(String[] args){
+
+    
+    // optimised
+    Scanner sc = new Scanner(System.in);
+        if(!sc.hasNextInt()) return;
+        int t = sc.nextInt();
+        while(t-- > 0){
+            int n = sc.nextInt();
+            int[] arr = new int[n];
+            int count = 0;
+            HashMap<Integer, Integer> map = new HashMap<>();
+            for(int i = 0; i < n; i++){
+                arr[i] = sc.nextInt();
+                int diff = arr[i] - i;
+                count += map.getOrDefault(diff, 0);
+                map.put(diff, map.getOrDefault(diff, 0) + 1);
+            }
+            System.out.println(count);
+        }
+  }
+  
+}
+
