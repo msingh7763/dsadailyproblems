@@ -14,10 +14,12 @@
 | [0274-h-index](https://github.com/msingh7763/dsadailyproblems/tree/master/0274-h-index) |
 | [0560-subarray-sum-equals-k](https://github.com/msingh7763/dsadailyproblems/tree/master/0560-subarray-sum-equals-k) |
 | [0875-koko-eating-bananas](https://github.com/msingh7763/dsadailyproblems/tree/master/0875-koko-eating-bananas) |
+| [2364-count-number-of-bad-pairs](https://github.com/msingh7763/dsadailyproblems/tree/master/2364-count-number-of-bad-pairs) |
 ## Math
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/msingh7763/dsadailyproblems/tree/master/0189-rotate-array) |
+| [2364-count-number-of-bad-pairs](https://github.com/msingh7763/dsadailyproblems/tree/master/2364-count-number-of-bad-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -42,6 +44,7 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/msingh7763/dsadailyproblems/tree/master/0560-subarray-sum-equals-k) |
+| [2364-count-number-of-bad-pairs](https://github.com/msingh7763/dsadailyproblems/tree/master/2364-count-number-of-bad-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -72,4 +75,5 @@
 |  |
 | ------- |
 | [0274-h-index](https://github.com/msingh7763/dsadailyproblems/tree/master/0274-h-index) |
+| [2364-count-number-of-bad-pairs](https://github.com/msingh7763/dsadailyproblems/tree/master/2364-count-number-of-bad-pairs) |
 <!---LeetCode Topics End-->
