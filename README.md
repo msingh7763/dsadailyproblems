@@ -15,6 +15,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/msingh7763/dsadailyproblems/tree/master/0560-subarray-sum-equals-k) |
 | [0875-koko-eating-bananas](https://github.com/msingh7763/dsadailyproblems/tree/master/0875-koko-eating-bananas) |
 | [2364-count-number-of-bad-pairs](https://github.com/msingh7763/dsadailyproblems/tree/master/2364-count-number-of-bad-pairs) |
+| [2540-minimum-common-value](https://github.com/msingh7763/dsadailyproblems/tree/master/2540-minimum-common-value) |
 ## Math
 |  |
 | ------- |
@@ -28,6 +29,7 @@
 | ------- |
 | [0031-next-permutation](https://github.com/msingh7763/dsadailyproblems/tree/master/0031-next-permutation) |
 | [0189-rotate-array](https://github.com/msingh7763/dsadailyproblems/tree/master/0189-rotate-array) |
+| [2540-minimum-common-value](https://github.com/msingh7763/dsadailyproblems/tree/master/2540-minimum-common-value) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -43,6 +45,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/msingh7763/dsadailyproblems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/msingh7763/dsadailyproblems/tree/master/0875-koko-eating-bananas) |
+| [2540-minimum-common-value](https://github.com/msingh7763/dsadailyproblems/tree/master/2540-minimum-common-value) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,6 +54,7 @@
 | [0290-word-pattern](https://github.com/msingh7763/dsadailyproblems/tree/master/0290-word-pattern) |
 | [0560-subarray-sum-equals-k](https://github.com/msingh7763/dsadailyproblems/tree/master/0560-subarray-sum-equals-k) |
 | [2364-count-number-of-bad-pairs](https://github.com/msingh7763/dsadailyproblems/tree/master/2364-count-number-of-bad-pairs) |
+| [2540-minimum-common-value](https://github.com/msingh7763/dsadailyproblems/tree/master/2540-minimum-common-value) |
 ## Prefix Sum
 |  |
 | ------- |
