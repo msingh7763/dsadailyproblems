@@ -1,0 +1,22 @@
+import java.util.*;
+
+public class CF742A {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int n = sc.nextInt();
+
+        if (n == 0) {
+            System.out.println(1);
+            return;
+        }
+
+        HashMap<Integer, Integer> map = new HashMap<>();
+        map.put(1, 8);
+        map.put(2, 4);
+        map.put(3, 2);
+        map.put(0, 6);
+
+        int m = n % 4;
+        System.out.println(map.get(m));
+    }
+}
