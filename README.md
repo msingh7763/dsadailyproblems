@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/msingh7763/dsadailyproblems/tree/master/0189-rotate-array) |
+| [0372-super-pow](https://github.com/msingh7763/dsadailyproblems/tree/master/0372-super-pow) |
 | [2364-count-number-of-bad-pairs](https://github.com/msingh7763/dsadailyproblems/tree/master/2364-count-number-of-bad-pairs) |
 ## Two Pointers
 |  |
@@ -76,4 +77,8 @@
 | ------- |
 | [0274-h-index](https://github.com/msingh7763/dsadailyproblems/tree/master/0274-h-index) |
 | [2364-count-number-of-bad-pairs](https://github.com/msingh7763/dsadailyproblems/tree/master/2364-count-number-of-bad-pairs) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/msingh7763/dsadailyproblems/tree/master/0372-super-pow) |
 <!---LeetCode Topics End-->
