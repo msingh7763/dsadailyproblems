@@ -23,6 +23,7 @@
 | [0013-roman-to-integer](https://github.com/msingh7763/dsadailyproblems/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/msingh7763/dsadailyproblems/tree/master/0189-rotate-array) |
 | [0372-super-pow](https://github.com/msingh7763/dsadailyproblems/tree/master/0372-super-pow) |
+| [0445-add-two-numbers-ii](https://github.com/msingh7763/dsadailyproblems/tree/master/0445-add-two-numbers-ii) |
 | [2364-count-number-of-bad-pairs](https://github.com/msingh7763/dsadailyproblems/tree/master/2364-count-number-of-bad-pairs) |
 ## Two Pointers
 |  |
@@ -65,6 +66,7 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/msingh7763/dsadailyproblems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0445-add-two-numbers-ii](https://github.com/msingh7763/dsadailyproblems/tree/master/0445-add-two-numbers-ii) |
 | [0901-online-stock-span](https://github.com/msingh7763/dsadailyproblems/tree/master/0901-online-stock-span) |
 ## Design
 |  |
@@ -102,4 +104,5 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/msingh7763/dsadailyproblems/tree/master/0141-linked-list-cycle) |
+| [0445-add-two-numbers-ii](https://github.com/msingh7763/dsadailyproblems/tree/master/0445-add-two-numbers-ii) |
 <!---LeetCode Topics End-->
