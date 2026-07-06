@@ -105,5 +105,10 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/msingh7763/dsadailyproblems/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/msingh7763/dsadailyproblems/tree/master/0206-reverse-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/msingh7763/dsadailyproblems/tree/master/0445-add-two-numbers-ii) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/msingh7763/dsadailyproblems/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
