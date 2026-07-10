@@ -25,6 +25,7 @@
 | [0189-rotate-array](https://github.com/msingh7763/dsadailyproblems/tree/master/0189-rotate-array) |
 | [0372-super-pow](https://github.com/msingh7763/dsadailyproblems/tree/master/0372-super-pow) |
 | [0445-add-two-numbers-ii](https://github.com/msingh7763/dsadailyproblems/tree/master/0445-add-two-numbers-ii) |
+| [0509-fibonacci-number](https://github.com/msingh7763/dsadailyproblems/tree/master/0509-fibonacci-number) |
 | [2364-count-number-of-bad-pairs](https://github.com/msingh7763/dsadailyproblems/tree/master/2364-count-number-of-bad-pairs) |
 ## Two Pointers
 |  |
@@ -38,6 +39,7 @@
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/msingh7763/dsadailyproblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/msingh7763/dsadailyproblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0509-fibonacci-number](https://github.com/msingh7763/dsadailyproblems/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -113,8 +115,13 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/msingh7763/dsadailyproblems/tree/master/0206-reverse-linked-list) |
+| [0509-fibonacci-number](https://github.com/msingh7763/dsadailyproblems/tree/master/0509-fibonacci-number) |
 ## Sliding Window
 |  |
 | ------- |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/msingh7763/dsadailyproblems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/msingh7763/dsadailyproblems/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
