@@ -12,6 +12,7 @@
 | [0134-gas-station](https://github.com/msingh7763/dsadailyproblems/tree/master/0134-gas-station) |
 | [0189-rotate-array](https://github.com/msingh7763/dsadailyproblems/tree/master/0189-rotate-array) |
 | [0274-h-index](https://github.com/msingh7763/dsadailyproblems/tree/master/0274-h-index) |
+| [0322-coin-change](https://github.com/msingh7763/dsadailyproblems/tree/master/0322-coin-change) |
 | [0560-subarray-sum-equals-k](https://github.com/msingh7763/dsadailyproblems/tree/master/0560-subarray-sum-equals-k) |
 | [0875-koko-eating-bananas](https://github.com/msingh7763/dsadailyproblems/tree/master/0875-koko-eating-bananas) |
 | [2364-count-number-of-bad-pairs](https://github.com/msingh7763/dsadailyproblems/tree/master/2364-count-number-of-bad-pairs) |
@@ -39,6 +40,7 @@
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/msingh7763/dsadailyproblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/msingh7763/dsadailyproblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0322-coin-change](https://github.com/msingh7763/dsadailyproblems/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/msingh7763/dsadailyproblems/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
@@ -124,4 +126,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/msingh7763/dsadailyproblems/tree/master/0509-fibonacci-number) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/msingh7763/dsadailyproblems/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
