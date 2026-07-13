@@ -61,6 +61,7 @@
 | [0012-integer-to-roman](https://github.com/msingh7763/dsadailyproblems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/msingh7763/dsadailyproblems/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/msingh7763/dsadailyproblems/tree/master/0141-linked-list-cycle) |
+| [0208-implement-trie-prefix-tree](https://github.com/msingh7763/dsadailyproblems/tree/master/0208-implement-trie-prefix-tree) |
 | [0290-word-pattern](https://github.com/msingh7763/dsadailyproblems/tree/master/0290-word-pattern) |
 | [0560-subarray-sum-equals-k](https://github.com/msingh7763/dsadailyproblems/tree/master/0560-subarray-sum-equals-k) |
 | [2364-count-number-of-bad-pairs](https://github.com/msingh7763/dsadailyproblems/tree/master/2364-count-number-of-bad-pairs) |
@@ -79,6 +80,7 @@
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/msingh7763/dsadailyproblems/tree/master/0208-implement-trie-prefix-tree) |
 | [0901-online-stock-span](https://github.com/msingh7763/dsadailyproblems/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
@@ -108,6 +110,7 @@
 | [0008-string-to-integer-atoi](https://github.com/msingh7763/dsadailyproblems/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/msingh7763/dsadailyproblems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/msingh7763/dsadailyproblems/tree/master/0013-roman-to-integer) |
+| [0208-implement-trie-prefix-tree](https://github.com/msingh7763/dsadailyproblems/tree/master/0208-implement-trie-prefix-tree) |
 | [0290-word-pattern](https://github.com/msingh7763/dsadailyproblems/tree/master/0290-word-pattern) |
 ## Linked List
 |  |
@@ -132,4 +135,8 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/msingh7763/dsadailyproblems/tree/master/0322-coin-change) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/msingh7763/dsadailyproblems/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
