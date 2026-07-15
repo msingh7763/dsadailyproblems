@@ -36,6 +36,7 @@
 | [0445-add-two-numbers-ii](https://github.com/msingh7763/dsadailyproblems/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/msingh7763/dsadailyproblems/tree/master/0509-fibonacci-number) |
 | [2364-count-number-of-bad-pairs](https://github.com/msingh7763/dsadailyproblems/tree/master/2364-count-number-of-bad-pairs) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/msingh7763/dsadailyproblems/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Two Pointers
 |  |
 | ------- |
@@ -162,4 +163,8 @@
 | ------- |
 | [0139-word-break](https://github.com/msingh7763/dsadailyproblems/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/msingh7763/dsadailyproblems/tree/master/0208-implement-trie-prefix-tree) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/msingh7763/dsadailyproblems/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
