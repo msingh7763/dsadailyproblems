@@ -56,6 +56,7 @@
 | [0509-fibonacci-number](https://github.com/msingh7763/dsadailyproblems/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/msingh7763/dsadailyproblems/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/msingh7763/dsadailyproblems/tree/master/0518-coin-change-ii) |
+| [1143-longest-common-subsequence](https://github.com/msingh7763/dsadailyproblems/tree/master/1143-longest-common-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -127,6 +128,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/msingh7763/dsadailyproblems/tree/master/0208-implement-trie-prefix-tree) |
 | [0290-word-pattern](https://github.com/msingh7763/dsadailyproblems/tree/master/0290-word-pattern) |
 | [0516-longest-palindromic-subsequence](https://github.com/msingh7763/dsadailyproblems/tree/master/0516-longest-palindromic-subsequence) |
+| [1143-longest-common-subsequence](https://github.com/msingh7763/dsadailyproblems/tree/master/1143-longest-common-subsequence) |
 ## Linked List
 |  |
 | ------- |
