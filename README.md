@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/msingh7763/dsadailyproblems/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/msingh7763/dsadailyproblems/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/msingh7763/dsadailyproblems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0084-largest-rectangle-in-histogram](https://github.com/msingh7763/dsadailyproblems/tree/master/0084-largest-rectangle-in-histogram) |
@@ -64,6 +65,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/msingh7763/dsadailyproblems/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/msingh7763/dsadailyproblems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/msingh7763/dsadailyproblems/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/msingh7763/dsadailyproblems/tree/master/0141-linked-list-cycle) |
