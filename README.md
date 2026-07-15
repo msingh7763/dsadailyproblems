@@ -11,6 +11,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/msingh7763/dsadailyproblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/msingh7763/dsadailyproblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/msingh7763/dsadailyproblems/tree/master/0134-gas-station) |
+| [0139-word-break](https://github.com/msingh7763/dsadailyproblems/tree/master/0139-word-break) |
 | [0189-rotate-array](https://github.com/msingh7763/dsadailyproblems/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/msingh7763/dsadailyproblems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/msingh7763/dsadailyproblems/tree/master/0213-house-robber-ii) |
@@ -48,6 +49,7 @@
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/msingh7763/dsadailyproblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/msingh7763/dsadailyproblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/msingh7763/dsadailyproblems/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/msingh7763/dsadailyproblems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/msingh7763/dsadailyproblems/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/msingh7763/dsadailyproblems/tree/master/0300-longest-increasing-subsequence) |
@@ -75,6 +77,7 @@
 | [0001-two-sum](https://github.com/msingh7763/dsadailyproblems/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/msingh7763/dsadailyproblems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/msingh7763/dsadailyproblems/tree/master/0013-roman-to-integer) |
+| [0139-word-break](https://github.com/msingh7763/dsadailyproblems/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/msingh7763/dsadailyproblems/tree/master/0141-linked-list-cycle) |
 | [0208-implement-trie-prefix-tree](https://github.com/msingh7763/dsadailyproblems/tree/master/0208-implement-trie-prefix-tree) |
 | [0290-word-pattern](https://github.com/msingh7763/dsadailyproblems/tree/master/0290-word-pattern) |
@@ -125,6 +128,7 @@
 | [0008-string-to-integer-atoi](https://github.com/msingh7763/dsadailyproblems/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/msingh7763/dsadailyproblems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/msingh7763/dsadailyproblems/tree/master/0013-roman-to-integer) |
+| [0139-word-break](https://github.com/msingh7763/dsadailyproblems/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/msingh7763/dsadailyproblems/tree/master/0208-implement-trie-prefix-tree) |
 | [0290-word-pattern](https://github.com/msingh7763/dsadailyproblems/tree/master/0290-word-pattern) |
 | [0516-longest-palindromic-subsequence](https://github.com/msingh7763/dsadailyproblems/tree/master/0516-longest-palindromic-subsequence) |
@@ -147,6 +151,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/msingh7763/dsadailyproblems/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/msingh7763/dsadailyproblems/tree/master/0509-fibonacci-number) |
 ## Breadth-First Search
 |  |
@@ -155,5 +160,6 @@
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/msingh7763/dsadailyproblems/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/msingh7763/dsadailyproblems/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
