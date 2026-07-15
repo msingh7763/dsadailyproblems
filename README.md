@@ -15,6 +15,7 @@
 | [0198-house-robber](https://github.com/msingh7763/dsadailyproblems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/msingh7763/dsadailyproblems/tree/master/0213-house-robber-ii) |
 | [0274-h-index](https://github.com/msingh7763/dsadailyproblems/tree/master/0274-h-index) |
+| [0283-move-zeroes](https://github.com/msingh7763/dsadailyproblems/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/msingh7763/dsadailyproblems/tree/master/0322-coin-change) |
 | [0403-frog-jump](https://github.com/msingh7763/dsadailyproblems/tree/master/0403-frog-jump) |
 | [0518-coin-change-ii](https://github.com/msingh7763/dsadailyproblems/tree/master/0518-coin-change-ii) |
@@ -39,6 +40,7 @@
 | [0031-next-permutation](https://github.com/msingh7763/dsadailyproblems/tree/master/0031-next-permutation) |
 | [0141-linked-list-cycle](https://github.com/msingh7763/dsadailyproblems/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/msingh7763/dsadailyproblems/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/msingh7763/dsadailyproblems/tree/master/0283-move-zeroes) |
 | [2540-minimum-common-value](https://github.com/msingh7763/dsadailyproblems/tree/master/2540-minimum-common-value) |
 ## Dynamic Programming
 |  |
