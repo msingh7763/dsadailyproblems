@@ -15,6 +15,7 @@
 | [0213-house-robber-ii](https://github.com/msingh7763/dsadailyproblems/tree/master/0213-house-robber-ii) |
 | [0274-h-index](https://github.com/msingh7763/dsadailyproblems/tree/master/0274-h-index) |
 | [0322-coin-change](https://github.com/msingh7763/dsadailyproblems/tree/master/0322-coin-change) |
+| [0403-frog-jump](https://github.com/msingh7763/dsadailyproblems/tree/master/0403-frog-jump) |
 | [0518-coin-change-ii](https://github.com/msingh7763/dsadailyproblems/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/msingh7763/dsadailyproblems/tree/master/0560-subarray-sum-equals-k) |
 | [0875-koko-eating-bananas](https://github.com/msingh7763/dsadailyproblems/tree/master/0875-koko-eating-bananas) |
@@ -46,6 +47,7 @@
 | [0198-house-robber](https://github.com/msingh7763/dsadailyproblems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/msingh7763/dsadailyproblems/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/msingh7763/dsadailyproblems/tree/master/0322-coin-change) |
+| [0403-frog-jump](https://github.com/msingh7763/dsadailyproblems/tree/master/0403-frog-jump) |
 | [0509-fibonacci-number](https://github.com/msingh7763/dsadailyproblems/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/msingh7763/dsadailyproblems/tree/master/0518-coin-change-ii) |
 ## Greedy
