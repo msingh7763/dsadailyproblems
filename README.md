@@ -13,6 +13,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/msingh7763/dsadailyproblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/msingh7763/dsadailyproblems/tree/master/0134-gas-station) |
 | [0139-word-break](https://github.com/msingh7763/dsadailyproblems/tree/master/0139-word-break) |
+| [0149-max-points-on-a-line](https://github.com/msingh7763/dsadailyproblems/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/msingh7763/dsadailyproblems/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/msingh7763/dsadailyproblems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/msingh7763/dsadailyproblems/tree/master/0213-house-robber-ii) |
@@ -32,6 +33,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/msingh7763/dsadailyproblems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/msingh7763/dsadailyproblems/tree/master/0013-roman-to-integer) |
+| [0149-max-points-on-a-line](https://github.com/msingh7763/dsadailyproblems/tree/master/0149-max-points-on-a-line) |
 | [0172-factorial-trailing-zeroes](https://github.com/msingh7763/dsadailyproblems/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/msingh7763/dsadailyproblems/tree/master/0189-rotate-array) |
 | [0372-super-pow](https://github.com/msingh7763/dsadailyproblems/tree/master/0372-super-pow) |
@@ -84,6 +86,7 @@
 | [0013-roman-to-integer](https://github.com/msingh7763/dsadailyproblems/tree/master/0013-roman-to-integer) |
 | [0139-word-break](https://github.com/msingh7763/dsadailyproblems/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/msingh7763/dsadailyproblems/tree/master/0141-linked-list-cycle) |
+| [0149-max-points-on-a-line](https://github.com/msingh7763/dsadailyproblems/tree/master/0149-max-points-on-a-line) |
 | [0208-implement-trie-prefix-tree](https://github.com/msingh7763/dsadailyproblems/tree/master/0208-implement-trie-prefix-tree) |
 | [0290-word-pattern](https://github.com/msingh7763/dsadailyproblems/tree/master/0290-word-pattern) |
 | [0560-subarray-sum-equals-k](https://github.com/msingh7763/dsadailyproblems/tree/master/0560-subarray-sum-equals-k) |
@@ -172,4 +175,8 @@
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/msingh7763/dsadailyproblems/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/msingh7763/dsadailyproblems/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
