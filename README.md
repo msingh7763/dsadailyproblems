@@ -50,6 +50,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/msingh7763/dsadailyproblems/tree/master/0072-edit-distance) |
 | [0120-triangle](https://github.com/msingh7763/dsadailyproblems/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/msingh7763/dsadailyproblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/msingh7763/dsadailyproblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -132,6 +133,7 @@
 | [0008-string-to-integer-atoi](https://github.com/msingh7763/dsadailyproblems/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/msingh7763/dsadailyproblems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/msingh7763/dsadailyproblems/tree/master/0013-roman-to-integer) |
+| [0072-edit-distance](https://github.com/msingh7763/dsadailyproblems/tree/master/0072-edit-distance) |
 | [0139-word-break](https://github.com/msingh7763/dsadailyproblems/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/msingh7763/dsadailyproblems/tree/master/0208-implement-trie-prefix-tree) |
 | [0290-word-pattern](https://github.com/msingh7763/dsadailyproblems/tree/master/0290-word-pattern) |
