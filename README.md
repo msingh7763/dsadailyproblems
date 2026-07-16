@@ -32,6 +32,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/msingh7763/dsadailyproblems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/msingh7763/dsadailyproblems/tree/master/0013-roman-to-integer) |
+| [0172-factorial-trailing-zeroes](https://github.com/msingh7763/dsadailyproblems/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/msingh7763/dsadailyproblems/tree/master/0189-rotate-array) |
 | [0372-super-pow](https://github.com/msingh7763/dsadailyproblems/tree/master/0372-super-pow) |
 | [0445-add-two-numbers-ii](https://github.com/msingh7763/dsadailyproblems/tree/master/0445-add-two-numbers-ii) |
