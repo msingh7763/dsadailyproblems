@@ -33,6 +33,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/msingh7763/dsadailyproblems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/msingh7763/dsadailyproblems/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/msingh7763/dsadailyproblems/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/msingh7763/dsadailyproblems/tree/master/0149-max-points-on-a-line) |
 | [0172-factorial-trailing-zeroes](https://github.com/msingh7763/dsadailyproblems/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/msingh7763/dsadailyproblems/tree/master/0189-rotate-array) |
@@ -52,6 +53,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/msingh7763/dsadailyproblems/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/msingh7763/dsadailyproblems/tree/master/0072-edit-distance) |
 | [0120-triangle](https://github.com/msingh7763/dsadailyproblems/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/msingh7763/dsadailyproblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -160,6 +162,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/msingh7763/dsadailyproblems/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/msingh7763/dsadailyproblems/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/msingh7763/dsadailyproblems/tree/master/0509-fibonacci-number) |
 ## Breadth-First Search
