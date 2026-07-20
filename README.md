@@ -57,6 +57,7 @@
 | [0053-maximum-subarray](https://github.com/msingh7763/dsadailyproblems/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/msingh7763/dsadailyproblems/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/msingh7763/dsadailyproblems/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/msingh7763/dsadailyproblems/tree/master/0091-decode-ways) |
 | [0120-triangle](https://github.com/msingh7763/dsadailyproblems/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/msingh7763/dsadailyproblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/msingh7763/dsadailyproblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -142,6 +143,7 @@
 | [0012-integer-to-roman](https://github.com/msingh7763/dsadailyproblems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/msingh7763/dsadailyproblems/tree/master/0013-roman-to-integer) |
 | [0072-edit-distance](https://github.com/msingh7763/dsadailyproblems/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/msingh7763/dsadailyproblems/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/msingh7763/dsadailyproblems/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/msingh7763/dsadailyproblems/tree/master/0208-implement-trie-prefix-tree) |
 | [0290-word-pattern](https://github.com/msingh7763/dsadailyproblems/tree/master/0290-word-pattern) |
