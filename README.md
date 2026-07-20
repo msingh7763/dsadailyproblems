@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/msingh7763/dsadailyproblems/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/msingh7763/dsadailyproblems/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/msingh7763/dsadailyproblems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0053-maximum-subarray](https://github.com/msingh7763/dsadailyproblems/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/msingh7763/dsadailyproblems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0120-triangle](https://github.com/msingh7763/dsadailyproblems/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/msingh7763/dsadailyproblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -53,6 +54,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/msingh7763/dsadailyproblems/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/msingh7763/dsadailyproblems/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/msingh7763/dsadailyproblems/tree/master/0072-edit-distance) |
 | [0120-triangle](https://github.com/msingh7763/dsadailyproblems/tree/master/0120-triangle) |
@@ -131,6 +133,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/msingh7763/dsadailyproblems/tree/master/0053-maximum-subarray) |
 | [0372-super-pow](https://github.com/msingh7763/dsadailyproblems/tree/master/0372-super-pow) |
 ## String
 |  |
