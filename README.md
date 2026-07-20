@@ -169,6 +169,7 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/msingh7763/dsadailyproblems/tree/master/0322-coin-change) |
+| [1971-find-if-path-exists-in-graph](https://github.com/msingh7763/dsadailyproblems/tree/master/1971-find-if-path-exists-in-graph) |
 ## Trie
 |  |
 | ------- |
@@ -182,4 +183,16 @@
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/msingh7763/dsadailyproblems/tree/master/0149-max-points-on-a-line) |
+## Depth-First Search
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/msingh7763/dsadailyproblems/tree/master/1971-find-if-path-exists-in-graph) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/msingh7763/dsadailyproblems/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/msingh7763/dsadailyproblems/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
