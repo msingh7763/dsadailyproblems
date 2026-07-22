@@ -1,22 +1,60 @@
 class Solution {
     public boolean canVisitAllRooms(List<List<Integer>> rooms) {
-        HashSet<Integer> set = new HashSet<>();
-        set.add(0); 
-        boolean r = true;
-        while (r) {
-            r = false;
-            for (int i = 0; i < rooms.size(); i++) {
-                if (set.contains(i)) {
-                    for (int j = 0; j < rooms.get(i).size(); j++) {
-                        int key = rooms.get(i).get(j);
-                        if (!set.contains(key)) {
-                            set.add(key);
-                            r= true; 
-                        }
-                    }
-                }
+        int n=rooms.size();
+        boolean[] vis=new boolean[n];
+        dfs(0,rooms,vis);
+        for(int i=0;i<n;i++){
+            if(!vis[i]){
+                return false;
             }
         }
-        return set.size() == rooms.size();
+        return true;
+
+
+        
+    }
+    public void dfs(int node,List<List<Integer>>rooms,boolean[] vis){
+        vis[node]=true;
+        for(Integer n:rooms.get(node)){
+            if(!vis[n]){
+                dfs(n,rooms,vis);
+            }
+        }
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
