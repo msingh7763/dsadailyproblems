@@ -51,6 +51,7 @@
 | [0141-linked-list-cycle](https://github.com/msingh7763/dsadailyproblems/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/msingh7763/dsadailyproblems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/msingh7763/dsadailyproblems/tree/master/0283-move-zeroes) |
+| [0876-middle-of-the-linked-list](https://github.com/msingh7763/dsadailyproblems/tree/master/0876-middle-of-the-linked-list) |
 | [2540-minimum-common-value](https://github.com/msingh7763/dsadailyproblems/tree/master/2540-minimum-common-value) |
 ## Dynamic Programming
 |  |
@@ -156,6 +157,7 @@
 | [0141-linked-list-cycle](https://github.com/msingh7763/dsadailyproblems/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/msingh7763/dsadailyproblems/tree/master/0206-reverse-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/msingh7763/dsadailyproblems/tree/master/0445-add-two-numbers-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/msingh7763/dsadailyproblems/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
