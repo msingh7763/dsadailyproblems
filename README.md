@@ -49,6 +49,7 @@
 | ------- |
 | [0031-next-permutation](https://github.com/msingh7763/dsadailyproblems/tree/master/0031-next-permutation) |
 | [0141-linked-list-cycle](https://github.com/msingh7763/dsadailyproblems/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/msingh7763/dsadailyproblems/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/msingh7763/dsadailyproblems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/msingh7763/dsadailyproblems/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/msingh7763/dsadailyproblems/tree/master/0876-middle-of-the-linked-list) |
@@ -93,6 +94,7 @@
 | [0013-roman-to-integer](https://github.com/msingh7763/dsadailyproblems/tree/master/0013-roman-to-integer) |
 | [0139-word-break](https://github.com/msingh7763/dsadailyproblems/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/msingh7763/dsadailyproblems/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/msingh7763/dsadailyproblems/tree/master/0142-linked-list-cycle-ii) |
 | [0149-max-points-on-a-line](https://github.com/msingh7763/dsadailyproblems/tree/master/0149-max-points-on-a-line) |
 | [0208-implement-trie-prefix-tree](https://github.com/msingh7763/dsadailyproblems/tree/master/0208-implement-trie-prefix-tree) |
 | [0290-word-pattern](https://github.com/msingh7763/dsadailyproblems/tree/master/0290-word-pattern) |
@@ -155,6 +157,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/msingh7763/dsadailyproblems/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/msingh7763/dsadailyproblems/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/msingh7763/dsadailyproblems/tree/master/0206-reverse-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/msingh7763/dsadailyproblems/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/msingh7763/dsadailyproblems/tree/master/0876-middle-of-the-linked-list) |
