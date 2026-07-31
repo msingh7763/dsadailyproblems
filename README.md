@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/msingh7763/dsadailyproblems/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/msingh7763/dsadailyproblems/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/msingh7763/dsadailyproblems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0049-group-anagrams](https://github.com/msingh7763/dsadailyproblems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/msingh7763/dsadailyproblems/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/msingh7763/dsadailyproblems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0120-triangle](https://github.com/msingh7763/dsadailyproblems/tree/master/0120-triangle) |
@@ -96,6 +97,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/msingh7763/dsadailyproblems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/msingh7763/dsadailyproblems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/msingh7763/dsadailyproblems/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/msingh7763/dsadailyproblems/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/msingh7763/dsadailyproblems/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/msingh7763/dsadailyproblems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/msingh7763/dsadailyproblems/tree/master/0142-linked-list-cycle-ii) |
@@ -135,6 +137,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/msingh7763/dsadailyproblems/tree/master/0049-group-anagrams) |
 | [0274-h-index](https://github.com/msingh7763/dsadailyproblems/tree/master/0274-h-index) |
 ## Counting Sort
 |  |
@@ -153,6 +156,7 @@
 | [0008-string-to-integer-atoi](https://github.com/msingh7763/dsadailyproblems/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/msingh7763/dsadailyproblems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/msingh7763/dsadailyproblems/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/msingh7763/dsadailyproblems/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/msingh7763/dsadailyproblems/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/msingh7763/dsadailyproblems/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/msingh7763/dsadailyproblems/tree/master/0139-word-break) |
