@@ -18,6 +18,7 @@
 | [0189-rotate-array](https://github.com/msingh7763/dsadailyproblems/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/msingh7763/dsadailyproblems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/msingh7763/dsadailyproblems/tree/master/0213-house-robber-ii) |
+| [0238-product-of-array-except-self](https://github.com/msingh7763/dsadailyproblems/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/msingh7763/dsadailyproblems/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/msingh7763/dsadailyproblems/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/msingh7763/dsadailyproblems/tree/master/0300-longest-increasing-subsequence) |
@@ -107,6 +108,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/msingh7763/dsadailyproblems/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/msingh7763/dsadailyproblems/tree/master/0560-subarray-sum-equals-k) |
 ## Stack
 |  |
