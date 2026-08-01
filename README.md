@@ -237,4 +237,8 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/msingh7763/dsadailyproblems/tree/master/0046-permutations) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/msingh7763/dsadailyproblems/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
